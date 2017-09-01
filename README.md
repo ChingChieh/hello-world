@@ -1,2 +1,3 @@
 # hello-world
-just fellow the guide
+Hi everyone!
+I'm from Taiwan
